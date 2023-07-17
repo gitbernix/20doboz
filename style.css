@@ -1,0 +1,24 @@
+ul{
+    list-style-type: square;
+    color: blue;
+    font-size: 50pt;
+    display: flex;
+    padding:3px;
+    border: 1px solid blue;
+    width: 450px;
+}
+
+li{
+    margin-right: 50px;
+}
+
+.piros{
+    list-style-type: square;
+        color: purple;
+        font-size: 50pt;
+        display: flex;
+        padding: 3px;
+        border: 1px solid blue;
+        width: 450px;
+        background-color: lightcoral;
+}
